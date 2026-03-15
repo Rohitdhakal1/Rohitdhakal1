@@ -1,16 +1,26 @@
-## Hi there 👋
+## 👋 Hi, I'm Rohit Dhakal
 
-<!--
-**Rohitdhakal1/Rohitdhakal1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student focused on building full-stack and AI-powered applications.  
+I enjoy turning ideas into real products and continuously improving my backend and system design skills.
 
-Here are some ideas to get you started:
+### 🚀 Currently Working On
+- AI-assisted applications
+- Full-stack development projects
+- Improving Data Structures & Algorithms
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+JavaScript • TypeScript • React • Node.js • Express  
+Socket.IO • Redis • Docker • Java • LLMs • AI APIs
+
+### 🌟 Projects
+- **IdeasAnswer** – AI-powered knowledge base (MERN)  
+- **ComfiSpace ChatApp** – Real-time chat app with Socket.IO  
+- **ShrinkIt** – URL shortener service  
+- **AI HealthTrack** – Fitness tracking with AI insights  
+- **AI PPT Generator** – AI-based presentation generator  
+- **DSA Java Solutions** – Data structures & algorithms practice
+
+### 📫 Connect
+LinkedIn: https://www.linkedin.com/in/rohitdhakal/
+
+AI-assisted personal knowledge base with contextual querying using MERN, Redis, local LLMs, and AI API calls.
