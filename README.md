@@ -21,6 +21,8 @@ Socket.IO • Redis • Docker • Java • LLMs • AI APIs
 - **DSA Java Solutions** – Data structures & algorithms practice
 
 ### 📫 Connect
+LeetCode: https://leetcode.com/u/rohitdhakal1/
 LinkedIn: https://www.linkedin.com/in/rohitdhakal/
+Email: rohitdhakal011@gmail.com | kashyap123rohit@gmail.com
 
 AI-assisted personal knowledge base with contextual querying using MERN, Redis, local LLMs, and AI API calls.
