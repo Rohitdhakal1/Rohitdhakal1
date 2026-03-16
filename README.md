@@ -6,7 +6,7 @@ Interested in backend systems, frontend , and integrating LLMs uisng APis or Loc
 ###  Currently Working On
 * AI-assisted personal knowledge systems
 * Full-stack MERN applications
-* Improving Data Structures & Algorithms
+* Learn more about Data Structures & Algorithms
 
 ###  Tech Stack
 JavaScript • TypeScript • React • Node.js • Express
