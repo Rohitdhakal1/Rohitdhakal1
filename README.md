@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Rohit Dhakal
 
 Computer Science student building full-stack and AI-powered applications.
-Interested in backend systems, real-time apps, and integrating LLMs into practical tools.
+Interested in backend systems, frontend , and integrating LLMs uisng APis or Local(Ollama).
 
 ###  Currently Working On
 * AI-assisted personal knowledge systems
